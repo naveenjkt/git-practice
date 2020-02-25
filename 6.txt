@@ -1,3 +1,2 @@
 hello 
 test file for stash
-changed file
